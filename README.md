@@ -13,4 +13,13 @@
 - RG: 17.546.200-6;
 - Telefone: (14) 998458304;
 - CEP: 17512-811;
-- Estado Civil: Feliz 
+- Estado Civil: Feliz
+
+---
+
+## Experiência:
+- Pacote Office;
+- Inglês intermediário;
+- Técnico em Desenvolvimento de Sistemas na ETEC Ântonio Devisate;
+- Gestão de trabalho em equipe;
+- Conhecimento em HTML, PHP, CSS, Python.
